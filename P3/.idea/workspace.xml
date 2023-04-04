@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="FileEditorManager">
+      <leaf>
+        <file pinned="true" current-in-tab="true">
+          <entry file="file://$PROJECT_DIR$/src/main/java/exercise/StudentSolutionImplementation.java">
+            <provider selected="true" editor-type-id="text-editor">
+              <state relative-caret-position="72">
+                <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              </state>
+            </provider>
+          </entry>
+        </file>
+      </leaf>
+    </component>
+  <component name="RunManager">
+    <configuration name="Exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.framework.Exercise" />
+      <module name="P3" />
+      <option name="VM_PARAMETERS" value="-Xss2m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.framework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+</project>
